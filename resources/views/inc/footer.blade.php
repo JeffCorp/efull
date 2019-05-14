@@ -137,7 +137,7 @@
         <!-- Footer Links -->
       
         <!-- Copyright -->
-        <div class="footer-copyright text-center text-black-10 py-3 footerBottom">© 2018 Copyright:
+        <div class="footer-copyright text-center text-black-10 py-3 " style="background: #e04208">© 2018 Copyright:
           <a class="text-white" href="https://efulltech.com"> EfullTech.com</a>
         </div>
         <!-- Copyright -->

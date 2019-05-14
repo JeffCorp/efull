@@ -7,10 +7,10 @@ nav{
     margin-top: -79px;
 } */
 #navbarNav ul li a{
-    color: orangered;
+    color: #e04208;
 }
 .navbar-brand a{
-    color: orangered;
+    color: #e04208;
 }
 .imgCont{
     height: 600px;
@@ -58,18 +58,18 @@ nav{
 
 .iconEfull{
     font-size: 5em;
-    border: 2px solid  rgb(240, 86, 29);
+    border: 2px solid  #e04208;
     padding: 10px;
     border-radius: 50%;
-    color: rgb(240, 86, 29);
+    color: #e04208;
     height: 112px;
 }
 .heads{
-    border-bottom: 2px solid  rgb(240, 86, 29);
+    border-bottom: 2px solid #e04208;
 }
 .heads:hover{
     border-bottom: 2px solid black;
-    color: rgb(240, 86, 29);
+    color: #e04208;
 }
 .footerBack{
     background-color: #212121df;
@@ -87,9 +87,8 @@ nav{
 h6{
     color: rgb(240, 86, 29);
 }
-.footerBottom{
-    background:  rgb(240, 86, 29);
+.orangeR{
+    background:  #e04208;
 }
-.fa {
-    color:  rgb(240, 86, 29);
-}
+
+
