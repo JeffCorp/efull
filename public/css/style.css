@@ -1,0 +1,95 @@
+nav{
+    
+    position: fixed !important;
+    z-index: 5;
+}
+/* .carous{
+    margin-top: -79px;
+} */
+#navbarNav ul li a{
+    color: orangered;
+}
+.navbar-brand a{
+    color: orangered;
+}
+.imgCont{
+    height: 600px;
+}
+.view{
+    min-height: 600px;
+}
+.textCont{
+    padding-top: 100px;
+    background-color: #212121cc;
+    height: -webkit-fill-available;
+    color: white;
+}
+.lead{
+    font-size: 2em;
+}
+.header{
+    font-size: 3em;
+}
+.briefMsg{
+    padding: 20px;
+    margin-top: 10px;
+}
+.msgArea{
+    margin-top: 20px;
+    text-align: center;    
+}
+.service{
+    background: #eee;
+    padding: 10px;
+}
+
+.sideImg{
+    background: url("../img3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logoInfo{
+    text-align: justify;
+    font-size: 25px !important;
+}
+
+
+
+.iconEfull{
+    font-size: 5em;
+    border: 2px solid  rgb(240, 86, 29);
+    padding: 10px;
+    border-radius: 50%;
+    color: rgb(240, 86, 29);
+    height: 112px;
+}
+.heads{
+    border-bottom: 2px solid  rgb(240, 86, 29);
+}
+.heads:hover{
+    border-bottom: 2px solid black;
+    color: rgb(240, 86, 29);
+}
+.footerBack{
+    background-color: #212121df;
+    background-size: cover;
+    padding: 20px;
+}
+.footer{
+    background-image: url("../footer.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: auto;
+    color: white;
+    width: -webkit-fill-available;
+}
+h6{
+    color: rgb(240, 86, 29);
+}
+.footerBottom{
+    background:  rgb(240, 86, 29);
+}
+.fa {
+    color:  rgb(240, 86, 29);
+}
